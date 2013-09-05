@@ -6,8 +6,8 @@ using nginx. Use as follows:
 
 1. Edit your ``~/.pip/pip.conf to look similiar to this::
 
-   [global]
-   index-url = http://localhost:5079/simple/
+     [global]
+     index-url = http://localhost:5079/simple/
 
 2. Run pypiproxy.sh.
 
