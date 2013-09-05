@@ -4,7 +4,7 @@ nginx-pypi
 Simple, small configuration + startup script that will cache PyPI downloads
 using nginx. Use as follows:
 
-1. Edit your ``~/.pip/pip.conf to look similiar to this::
+1. Edit your ``~/.pip/pip.conf`` to look similiar to this::
 
      [global]
      index-url = http://localhost:5079/simple/
